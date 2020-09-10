@@ -9,7 +9,16 @@
 ------------
 
 ### Core Skills
-
+* Strong analytical skills and level headed problem solver.
+* Experienced in behaviour driven test automation using Gauge Framework (Web, Android, iOS and API automation).
+* Web test automation using Selenium.
+* API test automation using RestAssured.
+* Mobile test automation using Appium.
+* Performance testing using JMeter and Locust.io.
+* Experienced in API testing using SoapUI and Postman.
+* Version controlling using Git.
+* Reporting and documentation using JIRA and Confluence.
+* Knowledge in Apache, SQL databases.
 
 ------------
 
