@@ -19,7 +19,7 @@
   * Duties
     * Designing and maintaining automated tests scripts.
     * Behaviour driven test automation for Web apllications.
-      * Technologies: Selenium, Specflow, Nunit, Microsoft azure, Pickles(For test report), Testinium(For test runnig)
+    * Technologies: Selenium, Specflow, Nunit, Microsoft azure, Pickles(For test report), Testinium(For test runnig)
       
       
 * **Test Automation Engineer – Allianz**
@@ -29,7 +29,6 @@
     * Back-end API testing and automation.
     * Accessibility testing.
     * Suggested improvements on design and functionality.
-    * Wrote technical documentations on QE confluence.
-      * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, Jira, 
+    * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, Jira, 
       
  ----------
