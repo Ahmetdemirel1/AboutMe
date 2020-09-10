@@ -1,7 +1,16 @@
-Ahmet Demirel
-Test Automation EngineerAt Testinium
-About Me
+## Ahmet Demirel
+#### Software Test Automation Engineer at Testinium
 
-Core Skills
+------------
 
-Work Experience
+### About Me
+ 
+
+------------
+
+### Core Skills
+
+
+------------
+
+### Work Experience
