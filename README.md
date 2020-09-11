@@ -23,7 +23,7 @@
 ------------
 
 ### Work Experience
-* **Test Automation Engineer – Allianz**
+* **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
   * Period: Aug 2019 - Present
   * Duties
     * Behaviour driven test automation for Web apllications.
@@ -33,7 +33,7 @@
     * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, Jira
     
     
-* **Test Automation Engineer – Doğuş Teknoloji**
+* **Test Automation Engineer – [Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)**
   * Period: Aug 2018 - Aug 2019
   * Duties
     * Designing and maintaining automated tests scripts.
