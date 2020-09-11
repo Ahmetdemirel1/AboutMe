@@ -40,7 +40,22 @@
     * Behaviour driven test automation for Web apllications.
     * Technologies: Selenium, Specflow, Nunit, Microsoft azure, Pickles(For test report), Testinium(For test runnig)
       
-      
+
+------------
+
+
+### Certifications
+ * **Test Master Educational Program**
+   * Issuing Authority: [Saha Information Technologies](https://sahabt.com/en/)
+   * Issued Date: May 2018
+   
+
+------------
+
+### Education
+ * **Suleyman Demirel University**
+   * Period: 2013 – 2018
+   * Degree: BSc in Computer Engineering
       
  ----------
 [twitter][twitter] **|** 
