@@ -60,8 +60,8 @@
  ----------
 [twitter][twitter] **|** 
 [instagram][instagram] **|** 
-[linkedin][linkedin]
-[OleaLeather][OleaLeather]
+[linkedin][linkedin]**|** 
+[OleaLeather][OleaLeather]**|** 
 
 
 [twitter]: https://twitter.com/Ahmtdmrl
