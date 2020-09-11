@@ -43,3 +43,11 @@
       
       
  ----------
+[twitter][twitter] **|** 
+[instagram][instagram] **|** 
+[linkedin][linkedin]
+
+
+[twitter]: https://twitter.com/Ahmtdmrl1
+[instagram]: https://www.instagram.com/ahmetdemirel1/
+[linkedin]: https://www.linkedin.com/in/ahmet-demirel/
