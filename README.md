@@ -77,8 +77,8 @@
   <img align="left" alt="OleaLeather's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
 </a>
 <br/>
-<br/>
 --------------
+<br/>
 <a href="https://github.com/Ahmetdemirel1">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ahmetdemirel1&theme=light&hide_langs_below=1" />
 </a>
