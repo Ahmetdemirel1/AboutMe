@@ -26,7 +26,7 @@
 * **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
   * Period: Aug 2019 - Present
   * Duties
-    * Behaviour driven test automation for Web apllications.
+    * Behaviour driven test automation for Web applications.
     * Back-end API testing and automation.
     * Accessibility testing.
     * Suggested improvements on design and functionality.
@@ -37,7 +37,7 @@
   * Period: Aug 2018 - Aug 2019
   * Duties
     * Designing and maintaining automated tests scripts.
-    * Behaviour driven test automation for Web apllications.
+    * Behaviour driven test automation for Web applications.
     * Technologies: Selenium, Specflow, Nunit, Microsoft azure, Pickles(For test report), Testinium(For test runnig)
       
 
