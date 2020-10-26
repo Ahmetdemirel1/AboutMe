@@ -58,16 +58,25 @@
    * Degree: BSc in Computer Engineering
       
  ----------
-[twitter][twitter] **|** 
-[instagram][instagram] **|** 
-[linkedin][linkedin]**|** 
-[OleaLeather][OleaLeather]**|** 
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Ahmetdemirel1&label=Views&color=blue&style=plastic" alt="Ahmetdemirel1" /> </p>
 
-[twitter]: https://twitter.com/Ahmtdmrl
-[instagram]: https://www.instagram.com/ahmetdemirel1/
-[linkedin]: https://www.linkedin.com/in/ahmet-demirel/
-[OleaLeather]: https://www.instagram.com/olealeather/
+<a href="https://twitter.com/Ahmtdmrl">
+  <img align="left" alt="Ahmet's Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="https://www.linkedin.com/in/ahmet-demirel">
+  <img align="left" alt="Ahmet's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<a href="https://www.instagram.com/ahmetdemirel1">
+  <img align="left" alt="Ahmet's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+<a href="https://github.com/Ahmetdemirel1">
+  <img align="left" alt="Ahmet's Github" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/github.svg" />
+</a>
+<a href="https://www.instagram.com/olealeather/">
+  <img align="left" alt="OleaLeather's Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />
+</a>
+
 
 --------------
 <a href="https://github.com/Ahmetdemirel1">
