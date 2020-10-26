@@ -76,12 +76,5 @@
 <a href="https://github.com/Ahmetdemirel1">
  <img align="center" src="https://github-readme-stats.vercel.app/api?username=Ahmetdemirel1&show_icons=true&theme=light&line_height=27" alt="Github stats"/>
 </a>
-<a href="https://github.com/iampawan/FlutterExampleApps">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmetdemirel1&repo=FlutterExampleApps&theme=light" />
-
-</a>
-<a href="https://github.com/iampawan/VelocityX">
- <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Ahmetdemirel1&repo=VelocityX&theme=light" />
-</a>
 
 
