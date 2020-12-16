@@ -1,5 +1,5 @@
 ## Ahmet Demirel
-#### Software Test Automation Engineer at Testinium | Founder & Designer at OleaLeather
+#### Software Test Automation Engineer at [Testinium](https://testinium.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
 
 ------------
 
