@@ -26,11 +26,11 @@
 * **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
   * Period: Aug 2019 - Present
   * Duties
-    * Behaviour driven test automation for Web applications.
+    * Behaviour driven test automation for Web and Mobile applications.
     * Back-end API testing and automation.
     * Accessibility testing.
     * Suggested improvements on design and functionality.
-    * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, Jira
+    * Technologies: Gauge, Selenium, Rest Assured, Maven, Java, Jira, Appium
     
     
 * **Test Automation Engineer – [Doğuş Teknoloji](https://www.d-teknoloji.com.tr/)**
