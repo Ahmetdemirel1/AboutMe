@@ -2,8 +2,6 @@
 #### Software Test Automation Engineer at [Testinium](https://testinium.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
 
 ------------
-
-### About Me
  
 
 ------------
