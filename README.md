@@ -1,5 +1,5 @@
 ## Ahmet Demirel
-#### Software Test Automation Engineer at [Testinium](https://testinium.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
+#### Software Test Automation Engineer at [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
 
 ------------
  
@@ -19,10 +19,20 @@
 * Knowledge in Apache, SQL databases.
 
 ------------
+### Work Experience
+* **Test Automation Engineer – [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/)**
+  * Period: Sep 2012 - present
+  * Duties
+    * Behaviour driven test automation for Web applications.
+    * Back-end API testing and automation.
+    * Load testing.
+    * Accessibility testing.
+    * Suggested improvements on design and functionality.
+    * Technologies: SpecFlow, Selenium, Jira, Jmeter
 
 ### Work Experience
 * **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
-  * Period: Aug 2019 - Present
+  * Period: Aug 2019 - Sep 2012
   * Duties
     * Behaviour driven test automation for Web and Mobile applications.
     * Back-end API testing and automation.
