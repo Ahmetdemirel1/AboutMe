@@ -21,7 +21,7 @@
 ------------
 ### Work Experience
 * **Test Automation Engineer – [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/)**
-  * Period: Sep 2012 - present
+  * Period: Sep 2021 - present
   * Duties
     * Behaviour driven test automation for Web applications.
     * Back-end API testing and automation.
@@ -32,7 +32,7 @@
 
 ### Work Experience
 * **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
-  * Period: Aug 2019 - Sep 2012
+  * Period: Aug 2019 - Sep 2021
   * Duties
     * Behaviour driven test automation for Web and Mobile applications.
     * Back-end API testing and automation.
