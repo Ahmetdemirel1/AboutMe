@@ -20,6 +20,7 @@
 
 ------------
 ### Work Experience
+
 * **Test Automation Engineer – [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/)**
   * Period: Sep 2021 - present
   * Duties
@@ -30,7 +31,7 @@
     * Suggested improvements on design and functionality.
     * Technologies: SpecFlow, Selenium, Jira, Jmeter
 
-### Work Experience
+
 * **Test Automation Engineer – [Allianz](https://www.allianz.com.tr/tr_TR.html#!/view1)**
   * Period: Aug 2019 - Sep 2021
   * Duties
