@@ -1,5 +1,5 @@
 ## Ahmet Demirel
-#### Software Test Automation Engineer at [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
+#### Software Developer in Test at [trendyol.com](https://www.trendyol.com/) | Founder & Designer at [OleaLeather](https://www.instagram.com/olealeather/)
 
 ------------
  
