@@ -20,7 +20,7 @@
 
 ------------
 ### Work Experience
-* **Test Automation Engineer – [Trendyol.com](https://www.trendyol.com/)**
+* **Software Developer in Test – [Trendyol.com](https://www.trendyol.com/)**
   * Period: August 2022 - present
   * Duties
     * Behaviour driven test automation for Web applications.
