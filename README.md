@@ -20,9 +20,19 @@
 
 ------------
 ### Work Experience
-
+* **Test Automation Engineer – [Trendyol.com](https://www.trendyol.com/)**
+  * Period: August 2022 - present
+  * Duties
+    * Behaviour driven test automation for Web applications.
+    * Back-end API testing and automation.
+    * Load testing.
+    * Accessibility testing.
+    * Suggested improvements on design and functionality.
+    * Technologies: Cypress, Selenium, Jira, Jmeter, Cucumber
+   
+      
 * **Test Automation Engineer – [ÇiçekSepeti.com | lolaflora.com](https://www.ciceksepeti.com/)**
-  * Period: Sep 2021 - present
+  * Period: Sep 2021 - August 2022
   * Duties
     * Behaviour driven test automation for Web applications.
     * Back-end API testing and automation.
